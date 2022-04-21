@@ -1,3 +1,3 @@
 # Açıklama
 
-C# diliyle yazılmış İzdüşüm alma kodu
+C# diliyle yazılmış İzdüşüm alma kodu.
